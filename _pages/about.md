@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Intern at <a href='https://hellofuture.orange.com/fr/'>Orange Innovation</a>
 
 profile:
   align: right
@@ -38,6 +38,6 @@ My academic foundation comes from INSA Centre Val de Loire, where I studied Engi
 
 My technical interest centers around AI Generative technologies, Large Language Models, optimization techniques, and Deep Learning architectures. I'm particularly interested in developing efficient AI solutions that balance performance with computational resources on High Perfomance Computer (HPU) and GPUs.
 
-I've demonstrated my technical abilities by participating in the national programming contest in Hanoi in 2022 and [various projects](/projects/), . My language proficiency includes English (C1 certified) and French (B2 certified), enabling me to collaborate effectively in international research environments.
+I've demonstrated my technical abilities by participating in the national programming contest in Hanoi in 2022 and [various projects](/projects/). My language proficiency includes English (C1 certified) and French (B2 certified), enabling me to collaborate effectively in international research environments.
 
 Currently, I'm actively seeking an applied research position (PhD) in Deep Learning and Multimodal AI, where I can contribute to advancing the field while solving real-world challenges.
