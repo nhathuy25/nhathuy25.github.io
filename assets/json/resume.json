@@ -32,7 +32,7 @@
      "summary": "Conducting advanced research on optimizing Large Language Models inference for improved energy efficiency on GPU infrastructures.",
      "highlights": [
        "Developing energy-optimized techniques for LLM inference on GPUs, reducing computational costs while maintaining model performance",
-       "Implementing and evaluating vLLM serving frameworks for code-specialized language models including CodeLlama, Codestral, and DeepSeek-Coder",
+       "Implementing and evaluating vLLM serving frameworks for code-specialized language models including CodeLlama, Codestral, and DeepSeek-Coder, etc.",
        "Researching and applying various quantization methods to balance inference speed, memory usage, and model accuracy",
        "Benchmarking performance metrics across different model architectures and inference configurations"
      ]
@@ -48,7 +48,7 @@
       "Deepened understanding of machine learning principles and probability theory through practical application",
       "Studied Auto-Encoders and Variational Auto-Encoders (VAEs) as generative models with latent variables, implementing them on the MNIST dataset",
       "Re-implemented and analyzed seminal papers including 'Auto-encoding Variational Bayes' and 'Tutorial on Variational Autoencoders'",
-      "Developed expertise in generative AI models, applied mathematics, and image processing using Python/PyTorch frameworks"
+      "Developed practices in applied mathematics, and image processing using Python/PyTorch frameworks"
     ]
     }
   ],
