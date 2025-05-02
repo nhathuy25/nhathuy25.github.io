@@ -18,17 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "You can find most of my informations and experiences below, there&#39;s also a PDF version on the right of the page. Feel free to contact with me through my personal email or my LinkedIn account.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -398,16 +391,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-joined-laboratoire-informatique-fondamentale-et-appliquee-de-tours-lifat-for-a-4-month-internship-on-computer-vision-and-deep-learning",
+          title: 'I joined Laboratoire Informatique Fondamentale et Appliquee de Tours (LIFAT) for a 4-month...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-joined-orange-innovation-as-a-research-engineer-intern-on-energy-efficient-large-language-models-with-hpc",
+          title: 'I joined Orange Innovation as a Research Engineer Intern on Energy-efficient Large Language...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-m-searching-actively-for-a-phd-position-after-finishing-my-internship-from-october-2025-smile",
+          title: 'I’m searching actively for a PhD position after finishing my internship, from October...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
