@@ -34,10 +34,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I'm currently a Research Intern specializing in Large Language Models (LLMs) and Energy-efficient Inference methods at Orange Innovation in Chatillon, Ile-de-France where I explore lastest techniques to optimize AI inference.
 
-My academic foundation comes from INSA Centre Val de Loire, where I studied Engineering with a focus on Mechatronics and Information Technology. This interdisciplinary background has equipped me with a unique perspective on physics, hardware and software aspects.
+My academic foundation comes from INSA Centre Val de Loire, where I studied Engineering with a focus on Mechatronics and Information Technology. This interdisciplinary background has equipped me with a broad perspective on physics, algorithmic approachs and artificial intelligent aspects.
 
-My technical interest centers around AI Generative technologies, Large Language Models, optimization techniques, and Deep Learning architectures. I'm particularly interested in developing efficient AI solutions that balance performance with computational resources on High Perfomance Computer (HPU) and GPUs.
+My technical interest centers around Multimodal AI, Semantic understanding, Optimization techniques, and Deep Learning architectures. I'm particularly interested in developing efficient AI solutions that balance performance with computational resources on GPUs.
 
-I've demonstrated my technical abilities by participating in the national programming contest in Hanoi in 2022 and [various projects](/projects/). My language proficiency includes English (C1 certified) and French (B2 certified), enabling me to collaborate effectively in international research environments.
+I've demonstrated my technical abilities by participating in the national programming contest in Hanoi in 2022 and [projects](/projects/). My language proficiency includes English (C1 certified) and French (B2 certified), enabling me to collaborate effectively in international research environments.
 
 Currently, I'm actively seeking an applied research position (PhD) in Deep Learning and Multimodal AI, where I can contribute to advancing the field while solving real-world challenges.
