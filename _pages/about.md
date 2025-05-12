@@ -32,12 +32,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-I'm currently a Research Intern specializing in Large Language Models (LLMs) and Energy-efficient Inference methods at Orange Innovation in Chatillon, Ile-de-France where I explore lastest techniques to optimize AI inference.
+I'm currently a Research Intern specializing in Large Language Models (LLMs) and Energy-efficient Inference methods at Orange Innovation (ex Orange Labs) in Chatillon, Ile-de-France where I explore lastest techniques to optimize AI inference.
 
 My academic foundation comes from INSA Centre Val de Loire, where I studied Engineering with a focus on Mechatronics and Information Technology. This interdisciplinary background has equipped me with a broad perspective on physics, algorithmic approachs and artificial intelligent aspects.
 
-My technical interest centers around Multimodal AI, Semantic understanding, Optimization techniques, and Deep Learning architectures. I'm particularly interested in developing efficient AI solutions that balance performance with computational resources on GPUs.
+My technical interest centers around Multimodal AI, Inference-optimized techniques and Semantic understanding. I'm particularly interested in developing efficient AI solutions that balance performance with computational resources on GPUs.
 
-I've demonstrated my technical abilities by participating in the national programming contest in Hanoi in 2022 and [projects](/projects/). My language proficiency includes English (C1 certified) and French (B2 certified), enabling me to collaborate effectively in international research environments.
+I've demonstrated my technical abilities by participating in the national programming contest in Hanoi in 2022 and by [projects](/projects/). My language proficiency includes English (C1 certified) and French (B2 certified), enabling me to collaborate effectively in international research environments.
 
 Currently, I'm actively seeking an applied research position (PhD) in Deep Learning and Multimodal AI, where I can contribute to advancing the field while solving real-world challenges.
