@@ -399,8 +399,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-m-searching-actively-for-a-phd-position-after-finishing-my-internship-from-october-2025-smile",
-          title: 'I’m searching actively for a PhD position after finishing my internship, from October...',
+            },},{id: "news-i-joined-cea-list-laboratory-of-semantic-analysis-text-and-image-lasti-as-a-phd-student-smile",
+          title: 'I joined CEA-List, Laboratory of Semantic Analysis Text and Image (LASTI) as a...',
           description: "",
           section: "News",},{id: "projects-expanding-vae",
           title: 'Expanding VAE',
