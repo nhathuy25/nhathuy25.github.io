@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Intern at <a href='https://hellofuture.orange.com/fr/'>Orange Innovation</a>
+subtitle: PhD Candidate at <a href='https://kalisteo.cea.fr/index.php/ai/'>CEA-List</a>
 
 profile:
   align: right
@@ -32,7 +32,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-I'm currently a Research Intern specializing in Large Language Models (LLMs) and Energy-efficient Inference methods at Orange Innovation (ex Orange Labs) in Chatillon, Ile-de-France where I explore lastest techniques to optimize AI inference.
+<!-- I'm currently a Research Intern specializing in Large Language Models (LLMs) and Energy-efficient Inference methods at Orange Innovation (ex Orange Labs) in Chatillon, Ile-de-France where I explore lastest techniques to optimize AI inference.
 
 My academic foundation comes from INSA Centre Val de Loire, where I studied Engineering with a focus on Mechatronics and Information Technology. This interdisciplinary background has equipped me with a broad perspective on physics, algorithmic approachs and artificial intelligent aspects.
 
@@ -40,4 +40,8 @@ My technical interest centers around Multimodal AI, Inference-optimized techniqu
 
 I've demonstrated my technical abilities by participating in the national programming contest in Hanoi in 2022 and by [projects](/projects/). My language proficiency includes English (C1 certified) and French (B2 certified), enabling me to collaborate effectively in international research environments.
 
-Currently, I'm actively seeking an applied research position (PhD) in Deep Learning and Multimodal AI, where I can contribute to advancing the field while solving real-world challenges.
+Currently, I'm actively seeking an applied research position (PhD) in Deep Learning and Multimodal AI, where I can contribute to advancing the field while solving real-world challenges. -->
+
+I'm currently a first-year PhD Candidate at CEA-List, France, where I'm working on the topic of internalization of external knowledge into foundation models. 
+
+Previously, I was a Research Intern at [Orange Innovation](https://hellofuture.orange.com/en/) (ex Orange Labs) in Chatillon, Ile-de-France where I explored lastest techniques to optimize AI inference. My academic foundation comes from [INSA Centre Val de Loire](https://www.insa-centrevaldeloire.fr/en), where I studied Engineering with a focus on Mechatronics and Information Technology.

@@ -4,7 +4,6 @@
     "label": "",
     "image": "",
     "email": "nguyenhuunhathuy2502@gmail.com",
-    "phone": "(33) 7 52 04 45 40",
     "url": "https://www.linkedin.com/in/huy-nguyen25/",
     "summary": "A dedicated Vietnamese student expanding my expertise in latest technologies while pursuing academic excellence in France.",
     "location": {
@@ -23,33 +22,41 @@
     ]
   },
   "work": [
-   {
-     "name": "Orange Innovation, Orange Gardens",
-     "position": "Research Engineer Intern",
-     "url": "https://hellofuture.orange.com/fr/",
-     "startDate": "2025-02-03",
-     "endDate": "Present",
-     "summary": "Conducting advanced research on optimizing Large Language Models inference for improved energy efficiency on GPU infrastructures.",
-     "highlights": [
-       "Developing energy-optimized techniques for LLM inference on GPUs, reducing computational costs while maintaining model performance",
-       "Implementing and evaluating vLLM serving frameworks for code-specialized language models including CodeLlama, Codestral, and DeepSeek-Coder, etc.",
-       "Researching and applying various quantization methods to balance inference speed, memory usage, and model accuracy",
-       "Benchmarking performance metrics across different model architectures and inference configurations"
-     ]
-   },
-   {
-    "name": "Laboratoire Informatique Fondamentale et Appliquée de Tours (LIFAT)",
-    "position": "Research Assistant Intern",
-    "url": "https://lifat.univ-tours.fr/",
-    "startDate": "2024-04-15",
-    "endDate": "2024-08-06",
-    "summary": "Conducted research in unsupervised learning, focusing on the development of neural networks for image reconstruction and generation tasks.",
-    "highlights": [
-      "Deepened understanding of machine learning principles and probability theory through practical application",
-      "Studied Auto-Encoders and Variational Auto-Encoders (VAEs) as generative models with latent variables, implementing them on the MNIST dataset",
-      "Re-implemented and analyzed seminal papers including 'Auto-encoding Variational Bayes' and 'Tutorial on Variational Autoencoders'",
-      "Developed practices in applied mathematics, and image processing using Python/PyTorch frameworks"
-    ]
+    {
+      "name": "CEA-List, Laboratory of Semantic Analysis Text and Image (LASTI)",
+      "position": "PhD Student",
+      "url": "https://kalisteo.cea.fr/index.php/ai/",
+      "startDate": "2026-01-13",
+      "endDate": "Present",
+      "summary": "Internalization of external knowledge into foundation model.",
+      "highlights": [
+        "Researching methods to integrate external knowledge into foundation models (e.g., GraphRAG), enhancing their reasoning and knowledge-grounding capabilities.",
+        "Application of GraphRAG to real-world scenarios, including knowledge-grounded dialogue systems and robotic applications."
+      ]
+    },
+    {
+      "name": "Orange Innovation, Orange Gardens",
+      "position": "Research Engineer Intern",
+      "url": "https://hellofuture.orange.com/fr/",
+      "startDate": "2025-02-03",
+      "endDate": "2025-08-01",
+      "summary": "Conducting advanced research on optimizing Large Language Models inference for improved energy efficiency on GPU infrastructures.",
+      "highlights": [
+        "Developing energy-optimized techniques for LLM inference on GPUs, reducing computational costs while maintaining model performance",
+        "Implementing and evaluating vLLM serving frameworks for code-specialized language models including CodeLlama, Codestral, and DeepSeek-Coder"
+      ]
+    },
+    {
+      "name": "Laboratoire Informatique Fondamentale et Appliquée de Tours (LIFAT)",
+      "position": "Research Assistant Intern",
+      "url": "https://lifat.univ-tours.fr/",
+      "startDate": "2024-04-15",
+      "endDate": "2024-08-06",
+      "summary": "Conducted research in unsupervised learning, focusing on the development of neural networks for image reconstruction and generation tasks.",
+      "highlights": [
+        "Studied Auto-Encoders and Variational Auto-Encoders (VAEs) as generative models with latent variables, implementing them on the MNIST dataset",
+        "Re-implemented and analyzed seminal papers including 'Auto-encoding Variational Bayes' and 'Tutorial on Variational Autoencoders'"
+      ]
     }
   ],
   "education": [
@@ -62,7 +69,16 @@
       "startDate": "2022-09-01",
       "endDate": "",
       "score": "",
-      "courses": ["Programming C&C++/Python/MATLAB", "Machine Learning", "Image Processing", "Automation", "Signal Processing", "Embedded & Real-time Systems", "Internet of Things", "Power Electronics"]
+      "courses": [
+        "Programming C&C++/Python/MATLAB",
+        "Machine Learning",
+        "Image Processing",
+        "Automation",
+        "Signal Processing",
+        "Embedded & Real-time Systems",
+        "Internet of Things",
+        "Power Electronics"
+      ]
     },
     {
       "institution": "INSA Centre Val de Loire campus Hué",
@@ -73,7 +89,14 @@
       "startDate": "2020-08-01",
       "endDate": "2022-06-01",
       "score": "",
-      "courses": ["Mathematics", "Physics", "Programming", "Probability and Statistics", "Electronics and Mechanics", "French and English"]
+      "courses": [
+        "Mathematics",
+        "Physics",
+        "Programming",
+        "Probability and Statistics",
+        "Electronics and Mechanics",
+        "French and English"
+      ]
     }
   ],
   "languages": [
@@ -133,81 +156,81 @@
     }
   ],
   "skills": [
-  {
-    "name": "Artificial Intelligence",
-    "level": "Advanced",
-    "icon": "fa-solid fa-brain",
-    "keywords": [
-      "Machine Learning",
-      "Deep Learning",
-      "Large Language Models",
-      "Computer Vision",
-      "Generative AI"
-    ]
-  },
-  {
-    "name": "Programming Languages",
-    "level": "Proficient",
-    "icon": "fa-solid fa-code",
-    "keywords": [
-      "Python",
-      "C",
-      "C++",
-      "Shell Script",
-      "MATLAB"
-    ]
-  },
-  {
-    "name": "Technologies & Tools",
-    "level": "Advanced",
-    "icon": "fa-solid fa-wrench",
-    "keywords": [
-      "Docker",
-      "SLURM",
-      "Git & GitHub",
-      "HPC",
-      "IoT"
-    ]
-  },
-  {
-    "name": "Frameworks & Libraries",
-    "level": "Proficient",
-    "icon": "fa-solid fa-layer-group",
-    "keywords": [
-      "PyTorch",
-      "Keras",
-      "OpenCV",
-      "NumPy",
-      "Pandas",
-      "Matplotlib",
-      "CUDA"
-    ]
-  },
-  {
-    "name": "Development Environments",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-laptop-code",
-    "keywords": [
-      "Visual Studio Code",
-      "Vi/Vim",
-      "CodeBlocks",
-      "SolidWorks",
-      "Abaqus",
-      "LaTeX"
-    ]
-  },
-  {
-    "name": "Engineering",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-cogs",
-    "keywords": [
-      "Electronics",
-      "Mechatronics",
-      "Engineering Design",
-      "System Optimization"
-    ]
-  }
-],
+    {
+      "name": "Artificial Intelligence",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Large Language Models",
+        "Computer Vision",
+        "Generative AI"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
+        "Shell Script",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Technologies & Tools",
+      "level": "Advanced",
+      "icon": "fa-solid fa-wrench",
+      "keywords": [
+        "Docker",
+        "SLURM",
+        "Git & GitHub",
+        "HPC",
+        "IoT"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "level": "Proficient",
+      "icon": "fa-solid fa-layer-group",
+      "keywords": [
+        "PyTorch",
+        "Keras",
+        "OpenCV",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "CUDA"
+      ]
+    },
+    {
+      "name": "Development Environments",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+        "Visual Studio Code",
+        "Vi/Vim",
+        "CodeBlocks",
+        "SolidWorks",
+        "Abaqus",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-cogs",
+      "keywords": [
+        "Electronics",
+        "Mechatronics",
+        "Engineering Design",
+        "System Optimization"
+      ]
+    }
+  ],
   "interests": [
     {
       "name": "Running",
@@ -226,32 +249,30 @@
     {
       "name": "Stoïcisme",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Nutrition & Cuisine",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "volunteer": [
-   {
-     "organization": "INSA Group in Vietnam",
-     "location": "Blois, France",
-     "position": "Video Co-Creator",
-     "url": "",
-     "startDate": "2023-05",
-     "endDate": "2023-08",
-     "summary": "Produced a promotional campus discovery video as part of an initiative to introduce the INSA group to Vietnamese high school students.",
-     "highlights": [
-       "Created engaging visual content showcasing campus facilities and student life.",
-       "Contributed to international outreach efforts to attract Vietnamese students to INSA programs.",
-       "Utilized video production skills to effectively communicate the educational opportunities available at INSA."
-     ]
-   }
- ],
+    {
+      "organization": "INSA Group in Vietnam",
+      "location": "Blois, France",
+      "position": "Video Co-Creator",
+      "url": "",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Produced a promotional campus discovery video as part of an initiative to introduce the INSA group to Vietnamese high school students.",
+      "highlights": [
+        "Created engaging visual content showcasing campus facilities and student life.",
+        "Contributed to international outreach efforts to attract Vietnamese students to INSA programs.",
+        "Utilized video production skills to effectively communicate the educational opportunities available at INSA."
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Ruby Krishnaswamy",
